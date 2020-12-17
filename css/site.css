@@ -6,6 +6,7 @@ h1{
 }
 #saudacao{
     color: darkgoldenrod;
+    text-align: center;
 }
 
 body{
@@ -16,4 +17,24 @@ h3{
 }
 p{
     font-family: Arial, Helvetica, sans-serif;
+}
+
+#sobre {
+    background-color: lightgray;
+    padding: 10px;
+    border: 2px solid black;
+}
+td, th {
+    border: 1px solid darkblue;
+    padding: 3px;
+    text-align: center;
+}
+
+th {
+    background-color: cadetblue;
+    color: white;
+}
+
+table {
+    border: 1px thin;
 }
