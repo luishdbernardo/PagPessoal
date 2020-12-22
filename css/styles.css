@@ -10122,13 +10122,14 @@ h3 {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
-  width: 15rem;
+        width: 18rem;
+        border-radius: 15px;
 }
 
 @media (min-width: 992px) {
   .masthead {
-    padding-top: calc(6rem + 104px);
-    padding-bottom: 6rem;
+    padding-top: calc(5rem + 104px);
+    padding-bottom: 4rem;
   }
   .masthead .masthead-heading {
     font-size: 4rem;
