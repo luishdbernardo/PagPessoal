@@ -1,4 +1,4 @@
-h1{
+/*h1{
     color: teal;
     font-family: Georgia;
     border: 2px solid brown;
@@ -50,4 +50,8 @@ body ul a{
 
 body img, body p{
     float: left;
+}*/
+
+.tamanholetra{
+    font-size: 14px !important;
 }

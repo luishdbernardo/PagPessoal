@@ -3972,7 +3972,7 @@ input[type=button].btn-block {
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
-  font-size: 1.25rem;
+  font-size: 1rem;
   line-height: inherit;
   white-space: nowrap;
 }
@@ -4010,7 +4010,7 @@ input[type=button].btn-block {
 
 .navbar-toggler {
   padding: 0.25rem 0.75rem;
-  font-size: 1.25rem;
+  font-size: 1rem;
   line-height: 1;
   background-color: transparent;
   border: 0.125rem solid transparent;
@@ -10127,7 +10127,7 @@ h3 {
 }
 .masthead .masthead-avatar {
         width: 18rem;
-        border-radius: 15px;
+        
 }
 
 @media (min-width: 992px) {
