@@ -37,11 +37,11 @@ th {
 
 table {
     border: 1px thin;
-}
-#ocult{
+}*/
+/*#ocult{
     visibility: hidden;
-}
-body ul a{
+}*/
+/*body ul a{
     text-decoration: none;
     color: darkgoldenrod;
     font-family: Arial, Helvetica, sans-serif;
@@ -71,5 +71,24 @@ body img, body p{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+#h2.tamanho{
+    font-size:20px;
+}
+#p.tamanho {
+    font-size: 40px;
+}
+
+.thead {
+    background-color: #1abc9c;
+}
+
+#ocultar{
+    visibility: hidden;
+}
+
+.table {
+    text-align: center !important;
 }
 
