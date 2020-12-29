@@ -102,3 +102,35 @@ body img, body p{
         opacity: 0.7;
         
 }
+#h2size{
+    font-size: 2.8rem;
+}
+
+.fa-carrot, .fa-futbol, .fa-tv, .fa-wikipedia-w, .fa-bus, .fa-church {
+    font-size: 72px;
+}
+.fa-carrot {
+    color: #e27c3e;
+}
+.fa-futbol {
+    color: #45b39c;
+}
+.fa-tv {
+    color: #1037b5;
+}
+.fa-wikipedia-w {
+    color: #1fa4b6;
+}
+.fa-bus {
+    color: #e4c74e;
+}
+.fa-church {
+    color: #ba4c63;
+}
+
+
+#alinhamento {
+    text-align: end !important;
+    align-content: end !important;
+    align-items: end !important;
+}
