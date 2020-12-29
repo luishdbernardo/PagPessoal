@@ -92,3 +92,13 @@ body img, body p{
     text-align: center !important;
 }
 
+#imagemflutua {
+    position: relative;
+}
+
+#imagemflutua:hover {
+        top: -5px;
+        box-shadow: 0 8px 8px #105f4f;
+        opacity: 0.7;
+        
+}
