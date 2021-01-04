@@ -6075,9 +6075,14 @@ a.close.disabled {
   vertical-align: text-top !important;
 }
 
-.bg-primary {
-  background-color: #1abc9c !important;
-}
+/*.bg-primary {
+    background-color: #1abc9c;
+    background-image: url("../img/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}*/
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,

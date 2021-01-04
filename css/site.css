@@ -134,3 +134,11 @@ body img, body p{
     align-content: end !important;
     align-items: end !important;
 }
+
+.bg-primary {
+    background-image: url(../img/background.jpg);
+    /*background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;*/
+}
