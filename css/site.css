@@ -137,8 +137,19 @@ body img, body p{
 
 .bg-primary {
     background-image: url(../img/background.jpg);
-    /*background-repeat: no-repeat;
-    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
-    position: relative;*/
+}
+
+#titulos{
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.bg-pprimary {
+    background-image: url(../img/background2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
